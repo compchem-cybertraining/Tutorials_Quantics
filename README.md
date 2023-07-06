@@ -8,7 +8,7 @@ Included is the full workshop manual (Quantics\_Exercises\_Book.pdf)  which give
 
 * 0-Introduction: - Tutorial1.pdf - This contains the slides of the first tutorial talk. 
 * 1-HO: These are the inputs for Chapter 3: Exercise 1, pages 5-10
-    - Introduction.md - The description of the sections of the ho.inp and ho.op
+    - Intro.md - The description of the sections of the ho.inp and ho.op
     - ho.inp - The harmonic oscillator input file
     - ho.op - The harmonic oscillator operator file
 * 2-Tully1: These are the inputs for Chapter 3: Exercise 1, pages 10-13
