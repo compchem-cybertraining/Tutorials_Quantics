@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 To run grid based calculations in Quantics you require and Input file and an Operator file.
 
-##Operator File
+## Operator File
 
 To specify a Hamiltonian, you need an operator file. 
 The operator file ``ho.op'' codes the Harmonic oscillator Hamiltonian above. You will see
@@ -18,7 +18,7 @@ the Hamiltonian.
 The PARAMETER-SECTION defines the mass and frequency. Values of a proton mass with a
 frequency close to 3500 cm$^{-1}$ are given. This is an approximate C--H stretch.
 
-##Input File
+## Input File
 
 To run a calculation you need an input file. Look at ho.inp. Again there are various SECTIONs.
 
